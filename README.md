@@ -1,6 +1,6 @@
 # automacao-resposta-email-N8N
 Esse projeto foi desenvolvido para o aprendizado da ferramenta: N8N. 
-Este repositório documentará os passos para criar um projeto para automação, ele realiza respostas de e-mail automáticas com API de inteligência artificial gratuita do Gemini.
+Este repositório documentará os passos para criar um projeto para automação, ele realiza respostas de e-mail automática com API de inteligência artificial gratuita do Gemini.
 
 <img width="1833" height="727" alt="fluxo-email-n8n" src="https://github.com/user-attachments/assets/10e04afc-7c35-4347-9400-0fae45db1041" />
 
