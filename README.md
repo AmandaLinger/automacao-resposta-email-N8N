@@ -1,6 +1,6 @@
 # automacao-resposta-email-N8N
 Esse projeto foi desenvolvido para o aprendizado da ferramenta: N8N. 
-Este repositório documentará os passos para criar um projeto para automação, ele realiza respostas de e-mail automática com API de inteligência artificial gratuita do Gemini.
+Este repositório documentará os passos para criar um projeto para automação para respostas de e-mail automática com API de inteligência artificial gratuita do Gemini.
 
 <img width="1833" height="727" alt="fluxo-email-n8n" src="https://github.com/user-attachments/assets/10e04afc-7c35-4347-9400-0fae45db1041" />
 
@@ -32,7 +32,7 @@ Este repositório documentará os passos para criar um projeto para automação,
 - <img width="1916" height="878" alt="if1" src="https://github.com/user-attachments/assets/d12ec8f8-9a41-43d2-bafc-b1f1e9f9b06e" />
 - caso contrário: é feito uma transformação de dados para a IA compreender os campos:
 - <img width="1915" height="878" alt="image" src="https://github.com/user-attachments/assets/2f16a046-25d8-4f33-94ff-e5586c3c379d" />
- a IA do Gemini lê o e-mail recebido e desenvolve uma resposta, que será enviada para aprovação humana,
+- a IA do Gemini lê o e-mail recebido e desenvolve uma resposta, que será enviada para aprovação humana,
 - <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/3dd52f9c-976e-42f4-b08e-61959742918f" />
 
 - é enviado o email (você decide para qual conta irá enviar o alerta de aprovação) ele aguarda sua resposta para concluir as proximas etapas do fluxo,
@@ -46,7 +46,7 @@ Este repositório documentará os passos para criar um projeto para automação,
 - caso a mensagem seja aprovada, a resposta é enviada ao rementente,
 - <img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/8589c692-b19e-4ee7-91f6-dc78bb52786a" />
 
-- caso contrário, a IA reformula-rá uma nova resposta que passará novamente por aprovação. 
+- caso contrário, a IA reformulará uma nova resposta que passará novamente por aprovação. 
 - <img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/8478668f-ccb5-42ac-a245-f55ec3e2011a" />
 - <img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/751b0138-9478-4da5-a0fc-3b1a4205b2cd" />
 
